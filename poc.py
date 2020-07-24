@@ -38,4 +38,4 @@ for password in wordlist:
 	if count%100 == 0:
 		print(count,"passwords tested")
 	if "isAdmin" in rep:
-		print("Mot de passe: ", password)
+		print("Mot de passe: ", password)	
